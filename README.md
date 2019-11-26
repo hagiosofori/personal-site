@@ -1,3 +1,3 @@
-#Personal Portfolio Site
+# Personal Portfolio Site
 
-##Work In Progress
+## Work In Progress
